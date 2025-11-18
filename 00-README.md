@@ -42,8 +42,8 @@ All documentation is organized in the [`docs/`](./docs/) folder.
 - **[10-ONBOARDING.md](./docs/10-ONBOARDING.md)**: First-time experience and learning paths
 - **[11-INCENTIVES.md](./docs/11-INCENTIVES.md)**: Recognition, rewards, motivation
 - **[12-MODERATION.md](./docs/12-MODERATION.md)**: Automated and human moderation systems
-- **[13-API.md](./docs/13-API.md)**: Integrations, webhooks, extensibility
-- **[14-SECURITY.md](./docs/14-SECURITY.md)**: Privacy, authentication, vulnerability management
+- **[13-API.md](./docs/13-API.md)**: API design, BYO keys, webhooks, bots, and integrations
+- **[14-SECURITY-AND-INFRASTRUCTURE.md](./docs/14-SECURITY-AND-INFRASTRUCTURE.md)**: Security posture, secrets management, infrastructure, and safe multi-tenancy
 - **[15-ROADMAP.md](./docs/15-ROADMAP.md)**: Launch phases, timeline, success criteria
 
 ### Core User Experience

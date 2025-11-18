@@ -18,19 +18,19 @@ This doc describes the initial governance model for The Wove.
 
 ## 2. Principles
 
-1. **Transparent, not secretive**  
+1. **Transparent, not secretive**
 
    Important decisions are documented and visible.
 
-2. **Participation over hierarchy**  
+2. **Participation over hierarchy**
 
    Community members have structured ways to influence direction without needing formal titles.
 
-3. **Accountability with compassion**  
+3. **Accountability with compassion**
 
    Moderation and policy decisions are documented, appealable, and geared toward repair when possible.
 
-4. **Pragmatic evolution**  
+4. **Pragmatic evolution**
 
    Governance can change via visible processes; it's not frozen constitutionally from day one.
 
@@ -180,7 +180,7 @@ RFCs are used when a change:
 
 ### 5.2 How It Works
 
-1. **Draft RFC**  
+1. **Draft RFC**
 
    - Created by Core Team, Steward, or community member.
 
@@ -194,7 +194,7 @@ RFCs are used when a change:
 
      - Impact assessment.
 
-2. **Feedback Window**  
+2. **Feedback Window**
 
    - Time-bounded (e.g. 7–14 days).
 
@@ -204,7 +204,7 @@ RFCs are used when a change:
 
      - Demo projects or remixes illustrating ideas.
 
-3. **Decision**  
+3. **Decision**
 
    - Core Team + Stewards:
 
@@ -214,7 +214,7 @@ RFCs are used when a change:
 
      - Reject (with explanation).
 
-4. **Post-Mortem** (if needed)  
+4. **Post-Mortem** (if needed)
 
    - For significant changes:
 

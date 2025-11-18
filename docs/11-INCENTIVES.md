@@ -20,11 +20,11 @@ This doc defines the incentive model and the signals we surface.
 
 ## 2. Principles
 
-1. **Impact over points**  
+1. **Impact over points**
 
    We prefer stories ("you helped X") over scores ("you have 1234 karma").
 
-2. **Intrinsic over extrinsic**  
+2. **Intrinsic over extrinsic**
 
    Incentives should align with:
 
@@ -36,11 +36,11 @@ This doc defines the incentive model and the signals we surface.
 
    - Contribution.
 
-3. **No leaderboard anxiety**  
+3. **No leaderboard anxiety**
 
    Avoid public ranking of individuals. Celebrate work, not ego.
 
-4. **Safety and kindness as first-class**  
+4. **Safety and kindness as first-class**
 
    Toxic contributions should not be rewarded, regardless of technical merit.
 
@@ -152,9 +152,9 @@ We treat roles as **responsibility badges**, not status badges.
 
 Roles should always feel like:
 
-> "I am trusted to help steward this space"  
+> "I am trusted to help steward this space"
 
-not  
+not
 
 > "I am better than others."
 

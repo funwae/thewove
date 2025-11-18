@@ -28,7 +28,7 @@ This doc describes the core loops for our four primary personas:
 
 Across all personas, The Wove's loops share three properties:
 
-1. **Remix-first**  
+1. **Remix-first**
 
    Almost every loop includes either:
 
@@ -36,7 +36,7 @@ Across all personas, The Wove's loops share three properties:
 
    - Preparing your own work so others can level it up.
 
-2. **AI-native, not AI-bolted-on**  
+2. **AI-native, not AI-bolted-on**
 
    The AI is:
 
@@ -46,7 +46,7 @@ Across all personas, The Wove's loops share three properties:
 
    - Treated as a collaborator, not a separate tool.
 
-3. **Structural kindness**  
+3. **Structural kindness**
 
    Every loop contains at least one of:
 
@@ -64,13 +64,13 @@ Across all personas, The Wove's loops share three properties:
 
 ### 3.1 5–10 Minute Loop: "Talk → See → Ship"
 
-1. **Talk**  
+1. **Talk**
 
    - They describe an idea in plain language to the conversational interface.
 
    - Wove clarifies in 1–2 turns: "I'm thinking this structure, does that feel right?"
 
-2. **See**  
+2. **See**
 
    - Files begin appearing in the editor.
 
@@ -78,13 +78,13 @@ Across all personas, The Wove's loops share three properties:
 
    - Errors are explained in natural language and auto-fixed when safe.
 
-3. **Ship**  
+3. **Ship**
 
    - They click "Ship" → Wove deploys to edge.
 
    - They get a live URL + QR code.
 
-4. **Remix**  
+4. **Remix**
 
    - Immediately after shipping, they're invited to:
 
@@ -92,7 +92,7 @@ Across all personas, The Wove's loops share three properties:
 
      - Level up one hand-picked beginner-friendly project.
 
-**Emotional anchor:**  
+**Emotional anchor:**
 
 > "I made a real thing and I helped improve someone else's."
 
@@ -126,7 +126,7 @@ Across all personas, The Wove's loops share three properties:
 
 ### 4.1 5–10 Minute Loop: "Resume → Understand → Evolve"
 
-1. **Resume**  
+1. **Resume**
 
    - They open a project and see a "Where we left off" summary:
 
@@ -136,7 +136,7 @@ Across all personas, The Wove's loops share three properties:
 
      - known rough edges
 
-2. **Understand**  
+2. **Understand**
 
    - Wove offers:
 
@@ -150,7 +150,7 @@ Across all personas, The Wove's loops share three properties:
 
      - "Remind me what this component does."
 
-3. **Evolve**  
+3. **Evolve**
 
    - They pick a micro-goal: "add auth", "improve performance", "refactor X".
 
@@ -166,13 +166,13 @@ Across all personas, The Wove's loops share three properties:
 
      - Proposing tests for critical paths.
 
-4. **Optionally: Publish a Level-Up Remix**  
+4. **Optionally: Publish a Level-Up Remix**
 
    - If they were working on someone else's project, their work becomes:
 
      - 🚀 Feature Add, 🎓 Teaching Remix, or 🔧 Rescue Mission.
 
-**Emotional anchor:**  
+**Emotional anchor:**
 
 > "My messy AI-coded project is gradually becoming solid, and I can do the same for others."
 
@@ -202,11 +202,11 @@ Across all personas, The Wove's loops share three properties:
 
 ### 5.1 5–10 Minute Loop: "Capture → Annotate → Publish"
 
-1. **Capture**  
+1. **Capture**
 
    - They select a project they've leveled up (their own or someone else's).
 
-2. **Annotate**  
+2. **Annotate**
 
    - Turn it into a 🎓 Teaching Remix:
 
@@ -220,7 +220,7 @@ Across all personas, The Wove's loops share three properties:
 
      - Comprehension questions or exercises.
 
-3. **Publish**  
+3. **Publish**
 
    - They flip "Teaching Remix ON".
 
@@ -232,7 +232,7 @@ Across all personas, The Wove's loops share three properties:
 
      - Challenges, where relevant.
 
-4. **Feedback**  
+4. **Feedback**
 
    - Learners can:
 
@@ -240,7 +240,7 @@ Across all personas, The Wove's loops share three properties:
 
      - Send Thank You notes explaining what they learned.
 
-**Emotional anchor:**  
+**Emotional anchor:**
 
 > "People are actually learning from the way I think about code."
 
@@ -270,7 +270,7 @@ Across all personas, The Wove's loops share three properties:
 
 ### 6.1 5–10 Minute Loop: "Spot Pattern → Encode Pipeline → Test on Real Project"
 
-1. **Spot Pattern**  
+1. **Spot Pattern**
 
    - They notice a recurring workflow:
 
@@ -280,7 +280,7 @@ Across all personas, The Wove's loops share three properties:
 
      - refactor + test + deploy.
 
-2. **Encode Pipeline**  
+2. **Encode Pipeline**
 
    - Open the **Pipeline Editor**:
 
@@ -294,7 +294,7 @@ Across all personas, The Wove's loops share three properties:
 
      - Outputs (diffs + reports).
 
-3. **Test on Real Project**  
+3. **Test on Real Project**
 
    - Run the pipeline against:
 
@@ -302,7 +302,7 @@ Across all personas, The Wove's loops share three properties:
 
      - A community project (with explicit consent / challenge context).
 
-4. **Publish as a Pipeline Remix**  
+4. **Publish as a Pipeline Remix**
 
    - Pipelines themselves can be "remixed":
 
@@ -316,7 +316,7 @@ Across all personas, The Wove's loops share three properties:
 
      - Specific persona loops.
 
-**Emotional anchor:**  
+**Emotional anchor:**
 
 > "I designed a workflow that makes other people more powerful."
 

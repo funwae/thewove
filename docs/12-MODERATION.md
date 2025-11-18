@@ -18,15 +18,15 @@ This doc defines moderation philosophy, workflows, roles, and the AI-assistance 
 
 ## 2. Principles
 
-1. **Human dignity first**  
+1. **Human dignity first**
 
    We favor protecting people over preserving content.
 
-2. **Repair when possible, remove when necessary**  
+2. **Repair when possible, remove when necessary**
 
    Aim for education and correction before bans, when safe and appropriate.
 
-3. **Transparent and appealable**  
+3. **Transparent and appealable**
 
    Moderation decisions:
 
@@ -34,7 +34,7 @@ This doc defines moderation philosophy, workflows, roles, and the AI-assistance 
 
    - Can be appealed through clear channels.
 
-4. **AI-assist, human-decide**  
+4. **AI-assist, human-decide**
 
    AI helps surface and pre-filter, but humans hold final authority in meaningful cases.
 
@@ -130,9 +130,9 @@ When a user writes a comment or feedback:
 
 If flagged, UX gently intervenes:
 
-> "This might come across as harsh. Want to rephrase?"  
+> "This might come across as harsh. Want to rephrase?"
 
-> Option 1: "Show me a kinder version."  
+> Option 1: "Show me a kinder version."
 
 > Option 2: "Post anyway" (with logging and potential rate limiting).
 
@@ -282,7 +282,7 @@ Appeal stats (aggregated) are:
 
 ## 8. Safety Tools for Users
 
-- **Block/Mute:**  
+- **Block/Mute:**
 
   Users can block others:
 
@@ -290,7 +290,7 @@ Appeal stats (aggregated) are:
 
   - Hides their content where reasonable.
 
-- **Content Controls:**  
+- **Content Controls:**
 
   Per-room and global settings:
 
@@ -298,7 +298,7 @@ Appeal stats (aggregated) are:
 
   - Filter content by tags (e.g. "no NSFW", "no politics").
 
-- **Report Mechanism:**  
+- **Report Mechanism:**
 
   Simple "Report" button with categories:
 
