@@ -158,7 +158,7 @@ Key endpoints (high-level):
 
 * `POST /api/projects/:id/remix`
 
-  * Create a remix, capturing lineage metadata (see Remix Culture).
+  * Create a remix, capturing lineage metadata (see [Remix Culture](./07-REMIX-CULTURE.md)).
 
 Remix-specific:
 
@@ -320,7 +320,7 @@ Provider connection metadata:
 
   * Which providers are connected; what capabilities they expose.
 
-**Security Notes (see security doc for details):**
+**Security Notes (see [Security & Infrastructure](./14-SECURITY-AND-INFRASTRUCTURE.md) for details):**
 
 * `value` field is:
 

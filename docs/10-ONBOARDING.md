@@ -222,7 +222,7 @@ On any card, "Remix this" is available. Clicking it triggers:
 
 - Light account creation.
 
-- Then flows into the **Remix Creation** UI (see Remix Culture spec).
+- Then flows into the **Remix Creation** UI (see [Remix Culture](./07-REMIX-CULTURE.md) spec).
 
 ---
 

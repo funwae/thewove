@@ -744,6 +744,6 @@ Community Insights:
 
 ## Related Documentation
 
-- **02-ARCHITECTURE**: AI services technical details
-- **03-COLLABORATION**: Shared AI context in teams
-- **06-DISCOVERY**: Finding and using community prompts
+- **[02-ARCHITECTURE.md](./02-ARCHITECTURE.md)**: AI services technical details
+- **[03-COLLABORATION.md](./03-COLLABORATION.md)**: Shared AI context in teams
+- **[06-DISCOVERY.md](./06-DISCOVERY.md)**: Finding and using community prompts

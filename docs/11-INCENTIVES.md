@@ -50,7 +50,7 @@ This doc defines the incentive model and the signals we surface.
 
 ### 3.1 Gratitude (Thank You System)
 
-See Remix Culture spec for details.
+See [Remix Culture](./07-REMIX-CULTURE.md) spec for details.
 
 - Primary emotional incentive:
 

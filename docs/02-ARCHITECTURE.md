@@ -480,6 +480,6 @@ This architecture enables:
 - Fast, reliable deployments
 
 See related documents:
-- **03-COLLABORATION**: Detailed collaboration features
-- **04-AI-PIPELINES**: AI orchestration and prompt sharing
-- **09-INFRASTRUCTURE**: Deployment and operations
+- **[03-COLLABORATION.md](./03-COLLABORATION.md)**: Detailed collaboration features
+- **[04-AI-PIPELINES.md](./04-AI-PIPELINES.md)**: AI orchestration and prompt sharing
+- **[09-INFRASTRUCTURE.md](./09-INFRASTRUCTURE.md)**: Deployment and operations

@@ -552,6 +552,6 @@ Team Productivity Insights:
 
 ## Related Documentation
 
-- **02-ARCHITECTURE**: Technical implementation details
-- **04-AI-PIPELINES**: Shared AI context and multi-agent collaboration
-- **05-ANTI-GATEKEEPING**: Creating safe collaboration spaces
+- **[02-ARCHITECTURE.md](./02-ARCHITECTURE.md)**: Technical implementation details
+- **[04-AI-PIPELINES.md](./04-AI-PIPELINES.md)**: Shared AI context and multi-agent collaboration
+- **[05-ANTI-GATEKEEPING.md](./05-ANTI-GATEKEEPING.md)**: Creating safe collaboration spaces
